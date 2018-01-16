@@ -1,0 +1,57 @@
+{
+  "class": "Section",
+  "titlu": "Design Patterns Book",
+  "continut": [
+    {
+      "class": "Section",
+      "titlu": "Chapter 1: Introduction to Design Patterns",
+      "continut": [
+        {
+          "class": "Paragraph",
+          "text": "This is the introductory paragraph. The white fox jump over the green fence."
+        },
+        {
+          "class": "ImageProxy",
+          "url": "figure1.png"
+        },
+        {
+          "class": "Paragraph",
+          "text": "This is the 2nd paragraph of Chapter 1."
+        }
+      ]
+    },
+    {
+      "class": "Section",
+      "titlu": "Chapter 2: Creational Patterns",
+      "continut": [
+        {
+          "class": "Paragraph",
+          "text": "Para 2.1."
+        },
+        {
+          "class": "Image",
+          "url": "figure2.png"
+        },
+        {
+          "class": "Paragraph",
+          "text": "Para 2.2."
+        }
+      ]
+    },
+    {
+      "class": "Section",
+      "titlu": "Chapter 3: Structural Patterns",
+      "continut": [
+        
+      ]
+    },
+    {
+      "class": "Section",
+      "titlu": "Chapter 4: Behavioural Patterns",
+      "continut": [
+        
+      ]
+    }
+  ]
+}
+
